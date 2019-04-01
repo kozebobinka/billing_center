@@ -1,0 +1,145 @@
+INFO - 2019-01-23 04:01:55 --> Config Class Initialized
+INFO - 2019-01-23 04:01:55 --> Hooks Class Initialized
+DEBUG - 2019-01-23 04:01:55 --> UTF-8 Support Enabled
+INFO - 2019-01-23 04:01:55 --> Utf8 Class Initialized
+INFO - 2019-01-23 04:01:55 --> URI Class Initialized
+INFO - 2019-01-23 04:01:55 --> Router Class Initialized
+INFO - 2019-01-23 04:01:55 --> Output Class Initialized
+INFO - 2019-01-23 04:01:55 --> Security Class Initialized
+DEBUG - 2019-01-23 04:01:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-23 04:01:55 --> Input Class Initialized
+INFO - 2019-01-23 04:01:55 --> Language Class Initialized
+ERROR - 2019-01-23 04:01:55 --> 404 Page Not Found: /index
+INFO - 2019-01-23 12:17:24 --> Config Class Initialized
+INFO - 2019-01-23 12:17:24 --> Hooks Class Initialized
+DEBUG - 2019-01-23 12:17:24 --> UTF-8 Support Enabled
+INFO - 2019-01-23 12:17:24 --> Utf8 Class Initialized
+INFO - 2019-01-23 12:17:24 --> URI Class Initialized
+INFO - 2019-01-23 12:17:24 --> Router Class Initialized
+INFO - 2019-01-23 12:17:24 --> Output Class Initialized
+INFO - 2019-01-23 12:17:24 --> Security Class Initialized
+DEBUG - 2019-01-23 12:17:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-23 12:17:24 --> Input Class Initialized
+INFO - 2019-01-23 12:17:24 --> Language Class Initialized
+ERROR - 2019-01-23 12:17:24 --> 404 Page Not Found: /index
+INFO - 2019-01-23 12:18:17 --> Config Class Initialized
+INFO - 2019-01-23 12:18:17 --> Hooks Class Initialized
+DEBUG - 2019-01-23 12:18:17 --> UTF-8 Support Enabled
+INFO - 2019-01-23 12:18:17 --> Utf8 Class Initialized
+INFO - 2019-01-23 12:18:17 --> URI Class Initialized
+INFO - 2019-01-23 12:18:17 --> Router Class Initialized
+INFO - 2019-01-23 12:18:17 --> Output Class Initialized
+INFO - 2019-01-23 12:18:17 --> Security Class Initialized
+DEBUG - 2019-01-23 12:18:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-23 12:18:17 --> Input Class Initialized
+INFO - 2019-01-23 12:18:17 --> Language Class Initialized
+INFO - 2019-01-23 12:18:17 --> Loader Class Initialized
+INFO - 2019-01-23 12:18:17 --> Helper loaded: url_helper
+INFO - 2019-01-23 12:18:17 --> Database Driver Class Initialized
+INFO - 2019-01-23 12:18:17 --> Helper loaded: form_helper
+INFO - 2019-01-23 12:18:17 --> Form Validation Class Initialized
+DEBUG - 2019-01-23 12:18:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-23 12:18:17 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-23 12:18:17 --> Controller Class Initialized
+INFO - 2019-01-23 12:18:17 --> Model "Login_model" initialized
+INFO - 2019-01-23 12:18:17 --> File loaded: /home/infogkhc/public_html/rc/application/views/login/login.php
+INFO - 2019-01-23 12:18:17 --> Final output sent to browser
+DEBUG - 2019-01-23 12:18:17 --> Total execution time: 0.0784
+INFO - 2019-01-23 12:19:50 --> Config Class Initialized
+INFO - 2019-01-23 12:19:50 --> Hooks Class Initialized
+DEBUG - 2019-01-23 12:19:50 --> UTF-8 Support Enabled
+INFO - 2019-01-23 12:19:50 --> Utf8 Class Initialized
+INFO - 2019-01-23 12:19:50 --> URI Class Initialized
+INFO - 2019-01-23 12:19:50 --> Router Class Initialized
+INFO - 2019-01-23 12:19:50 --> Output Class Initialized
+INFO - 2019-01-23 12:19:50 --> Security Class Initialized
+DEBUG - 2019-01-23 12:19:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-23 12:19:51 --> Input Class Initialized
+INFO - 2019-01-23 12:19:51 --> Language Class Initialized
+INFO - 2019-01-23 12:19:51 --> Loader Class Initialized
+INFO - 2019-01-23 12:19:51 --> Helper loaded: url_helper
+INFO - 2019-01-23 12:19:51 --> Database Driver Class Initialized
+INFO - 2019-01-23 12:19:51 --> Helper loaded: form_helper
+INFO - 2019-01-23 12:19:51 --> Form Validation Class Initialized
+DEBUG - 2019-01-23 12:19:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-23 12:19:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-23 12:19:51 --> Controller Class Initialized
+INFO - 2019-01-23 12:19:51 --> Model "Login_model" initialized
+INFO - 2019-01-23 12:19:51 --> Language file loaded: language/ukrainian/form_validation_lang.php
+ERROR - 2019-01-23 12:19:51 --> Could not find the language line "form_validation_required"
+ERROR - 2019-01-23 12:19:51 --> Could not find the language line "form_validation_required"
+INFO - 2019-01-23 12:19:51 --> File loaded: /home/infogkhc/public_html/rc/application/views/login/login.php
+INFO - 2019-01-23 12:19:51 --> Final output sent to browser
+DEBUG - 2019-01-23 12:19:51 --> Total execution time: 0.1625
+INFO - 2019-01-23 12:19:57 --> Config Class Initialized
+INFO - 2019-01-23 12:19:57 --> Hooks Class Initialized
+DEBUG - 2019-01-23 12:19:57 --> UTF-8 Support Enabled
+INFO - 2019-01-23 12:19:57 --> Utf8 Class Initialized
+INFO - 2019-01-23 12:19:57 --> URI Class Initialized
+INFO - 2019-01-23 12:19:57 --> Router Class Initialized
+INFO - 2019-01-23 12:19:57 --> Output Class Initialized
+INFO - 2019-01-23 12:19:57 --> Security Class Initialized
+DEBUG - 2019-01-23 12:19:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-23 12:19:57 --> Input Class Initialized
+INFO - 2019-01-23 12:19:57 --> Language Class Initialized
+INFO - 2019-01-23 12:19:57 --> Loader Class Initialized
+INFO - 2019-01-23 12:19:57 --> Helper loaded: url_helper
+INFO - 2019-01-23 12:19:57 --> Database Driver Class Initialized
+INFO - 2019-01-23 12:19:57 --> Helper loaded: form_helper
+INFO - 2019-01-23 12:19:57 --> Form Validation Class Initialized
+DEBUG - 2019-01-23 12:19:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-23 12:19:57 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-23 12:19:57 --> Controller Class Initialized
+INFO - 2019-01-23 12:19:57 --> Model "Login_model" initialized
+INFO - 2019-01-23 12:19:57 --> Language file loaded: language/ukrainian/form_validation_lang.php
+INFO - 2019-01-23 12:19:57 --> File loaded: /home/infogkhc/public_html/rc/application/views/login/login.php
+INFO - 2019-01-23 12:19:57 --> Final output sent to browser
+DEBUG - 2019-01-23 12:19:57 --> Total execution time: 0.0289
+INFO - 2019-01-23 12:20:00 --> Config Class Initialized
+INFO - 2019-01-23 12:20:00 --> Hooks Class Initialized
+DEBUG - 2019-01-23 12:20:00 --> UTF-8 Support Enabled
+INFO - 2019-01-23 12:20:00 --> Utf8 Class Initialized
+INFO - 2019-01-23 12:20:00 --> URI Class Initialized
+INFO - 2019-01-23 12:20:00 --> Router Class Initialized
+INFO - 2019-01-23 12:20:00 --> Output Class Initialized
+INFO - 2019-01-23 12:20:00 --> Security Class Initialized
+DEBUG - 2019-01-23 12:20:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-23 12:20:00 --> Input Class Initialized
+INFO - 2019-01-23 12:20:00 --> Language Class Initialized
+INFO - 2019-01-23 12:20:00 --> Loader Class Initialized
+INFO - 2019-01-23 12:20:00 --> Helper loaded: url_helper
+INFO - 2019-01-23 12:20:00 --> Database Driver Class Initialized
+INFO - 2019-01-23 12:20:00 --> Helper loaded: form_helper
+INFO - 2019-01-23 12:20:00 --> Form Validation Class Initialized
+DEBUG - 2019-01-23 12:20:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-23 12:20:00 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-23 12:20:00 --> Controller Class Initialized
+INFO - 2019-01-23 12:20:00 --> Model "Login_model" initialized
+INFO - 2019-01-23 12:20:00 --> Language file loaded: language/ukrainian/form_validation_lang.php
+INFO - 2019-01-23 12:20:00 --> File loaded: /home/infogkhc/public_html/rc/application/views/login/login.php
+INFO - 2019-01-23 12:20:00 --> Final output sent to browser
+DEBUG - 2019-01-23 12:20:00 --> Total execution time: 0.0381
+INFO - 2019-01-23 12:20:20 --> Config Class Initialized
+INFO - 2019-01-23 12:20:20 --> Hooks Class Initialized
+DEBUG - 2019-01-23 12:20:20 --> UTF-8 Support Enabled
+INFO - 2019-01-23 12:20:20 --> Utf8 Class Initialized
+INFO - 2019-01-23 12:20:20 --> URI Class Initialized
+INFO - 2019-01-23 12:20:20 --> Router Class Initialized
+INFO - 2019-01-23 12:20:20 --> Output Class Initialized
+INFO - 2019-01-23 12:20:20 --> Security Class Initialized
+DEBUG - 2019-01-23 12:20:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-23 12:20:20 --> Input Class Initialized
+INFO - 2019-01-23 12:20:20 --> Language Class Initialized
+INFO - 2019-01-23 12:20:20 --> Loader Class Initialized
+INFO - 2019-01-23 12:20:20 --> Helper loaded: url_helper
+INFO - 2019-01-23 12:20:20 --> Database Driver Class Initialized
+INFO - 2019-01-23 12:20:20 --> Helper loaded: form_helper
+INFO - 2019-01-23 12:20:20 --> Form Validation Class Initialized
+DEBUG - 2019-01-23 12:20:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-23 12:20:20 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-23 12:20:20 --> Controller Class Initialized
+INFO - 2019-01-23 12:20:20 --> Model "Login_model" initialized
+INFO - 2019-01-23 12:20:20 --> Language file loaded: language/ukrainian/form_validation_lang.php
+INFO - 2019-01-23 12:20:20 --> File loaded: /home/infogkhc/public_html/rc/application/views/login/login.php
+INFO - 2019-01-23 12:20:20 --> Final output sent to browser
+DEBUG - 2019-01-23 12:20:20 --> Total execution time: 0.0893

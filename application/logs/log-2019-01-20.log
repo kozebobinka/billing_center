@@ -1,0 +1,24 @@
+INFO - 2019-01-20 21:24:33 --> Config Class Initialized
+INFO - 2019-01-20 21:24:33 --> Hooks Class Initialized
+DEBUG - 2019-01-20 21:24:33 --> UTF-8 Support Enabled
+INFO - 2019-01-20 21:24:33 --> Utf8 Class Initialized
+INFO - 2019-01-20 21:24:33 --> URI Class Initialized
+INFO - 2019-01-20 21:24:33 --> Router Class Initialized
+INFO - 2019-01-20 21:24:33 --> Output Class Initialized
+INFO - 2019-01-20 21:24:33 --> Security Class Initialized
+DEBUG - 2019-01-20 21:24:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-20 21:24:33 --> Input Class Initialized
+INFO - 2019-01-20 21:24:33 --> Language Class Initialized
+ERROR - 2019-01-20 21:24:33 --> 404 Page Not Found: /index
+INFO - 2019-01-20 21:37:28 --> Config Class Initialized
+INFO - 2019-01-20 21:37:28 --> Hooks Class Initialized
+DEBUG - 2019-01-20 21:37:28 --> UTF-8 Support Enabled
+INFO - 2019-01-20 21:37:28 --> Utf8 Class Initialized
+INFO - 2019-01-20 21:37:28 --> URI Class Initialized
+INFO - 2019-01-20 21:37:28 --> Router Class Initialized
+INFO - 2019-01-20 21:37:28 --> Output Class Initialized
+INFO - 2019-01-20 21:37:28 --> Security Class Initialized
+DEBUG - 2019-01-20 21:37:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-20 21:37:28 --> Input Class Initialized
+INFO - 2019-01-20 21:37:28 --> Language Class Initialized
+ERROR - 2019-01-20 21:37:28 --> 404 Page Not Found: /index

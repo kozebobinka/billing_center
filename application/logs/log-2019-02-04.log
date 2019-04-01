@@ -1,0 +1,12 @@
+INFO - 2019-02-04 08:28:31 --> Config Class Initialized
+INFO - 2019-02-04 08:28:31 --> Hooks Class Initialized
+DEBUG - 2019-02-04 08:28:31 --> UTF-8 Support Enabled
+INFO - 2019-02-04 08:28:31 --> Utf8 Class Initialized
+INFO - 2019-02-04 08:28:31 --> URI Class Initialized
+INFO - 2019-02-04 08:28:31 --> Router Class Initialized
+INFO - 2019-02-04 08:28:31 --> Output Class Initialized
+INFO - 2019-02-04 08:28:31 --> Security Class Initialized
+DEBUG - 2019-02-04 08:28:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-04 08:28:31 --> Input Class Initialized
+INFO - 2019-02-04 08:28:31 --> Language Class Initialized
+ERROR - 2019-02-04 08:28:31 --> 404 Page Not Found: /index

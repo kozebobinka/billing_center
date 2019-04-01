@@ -1,0 +1,36 @@
+INFO - 2018-12-12 00:52:30 --> Config Class Initialized
+INFO - 2018-12-12 00:52:30 --> Hooks Class Initialized
+DEBUG - 2018-12-12 00:52:30 --> UTF-8 Support Enabled
+INFO - 2018-12-12 00:52:30 --> Utf8 Class Initialized
+INFO - 2018-12-12 00:52:30 --> URI Class Initialized
+INFO - 2018-12-12 00:52:30 --> Router Class Initialized
+INFO - 2018-12-12 00:52:30 --> Output Class Initialized
+INFO - 2018-12-12 00:52:30 --> Security Class Initialized
+DEBUG - 2018-12-12 00:52:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-12 00:52:30 --> Input Class Initialized
+INFO - 2018-12-12 00:52:30 --> Language Class Initialized
+ERROR - 2018-12-12 00:52:30 --> 404 Page Not Found: /index
+INFO - 2018-12-12 03:14:56 --> Config Class Initialized
+INFO - 2018-12-12 03:14:56 --> Hooks Class Initialized
+DEBUG - 2018-12-12 03:14:56 --> UTF-8 Support Enabled
+INFO - 2018-12-12 03:14:56 --> Utf8 Class Initialized
+INFO - 2018-12-12 03:14:56 --> URI Class Initialized
+INFO - 2018-12-12 03:14:56 --> Router Class Initialized
+INFO - 2018-12-12 03:14:56 --> Output Class Initialized
+INFO - 2018-12-12 03:14:56 --> Security Class Initialized
+DEBUG - 2018-12-12 03:14:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-12 03:14:56 --> Input Class Initialized
+INFO - 2018-12-12 03:14:56 --> Language Class Initialized
+ERROR - 2018-12-12 03:14:56 --> 404 Page Not Found: /index
+INFO - 2018-12-12 05:47:52 --> Config Class Initialized
+INFO - 2018-12-12 05:47:52 --> Hooks Class Initialized
+DEBUG - 2018-12-12 05:47:52 --> UTF-8 Support Enabled
+INFO - 2018-12-12 05:47:52 --> Utf8 Class Initialized
+INFO - 2018-12-12 05:47:52 --> URI Class Initialized
+INFO - 2018-12-12 05:47:52 --> Router Class Initialized
+INFO - 2018-12-12 05:47:52 --> Output Class Initialized
+INFO - 2018-12-12 05:47:52 --> Security Class Initialized
+DEBUG - 2018-12-12 05:47:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-12 05:47:52 --> Input Class Initialized
+INFO - 2018-12-12 05:47:52 --> Language Class Initialized
+ERROR - 2018-12-12 05:47:52 --> 404 Page Not Found: /index

@@ -1,0 +1,48 @@
+INFO - 2019-01-16 05:01:51 --> Config Class Initialized
+INFO - 2019-01-16 05:01:51 --> Hooks Class Initialized
+DEBUG - 2019-01-16 05:01:51 --> UTF-8 Support Enabled
+INFO - 2019-01-16 05:01:51 --> Utf8 Class Initialized
+INFO - 2019-01-16 05:01:51 --> URI Class Initialized
+INFO - 2019-01-16 05:01:51 --> Router Class Initialized
+INFO - 2019-01-16 05:01:51 --> Output Class Initialized
+INFO - 2019-01-16 05:01:51 --> Security Class Initialized
+DEBUG - 2019-01-16 05:01:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-16 05:01:51 --> Input Class Initialized
+INFO - 2019-01-16 05:01:51 --> Language Class Initialized
+ERROR - 2019-01-16 05:01:51 --> 404 Page Not Found: /index
+INFO - 2019-01-16 09:15:58 --> Config Class Initialized
+INFO - 2019-01-16 09:15:58 --> Hooks Class Initialized
+DEBUG - 2019-01-16 09:15:58 --> UTF-8 Support Enabled
+INFO - 2019-01-16 09:15:58 --> Utf8 Class Initialized
+INFO - 2019-01-16 09:15:58 --> URI Class Initialized
+INFO - 2019-01-16 09:15:58 --> Router Class Initialized
+INFO - 2019-01-16 09:15:58 --> Output Class Initialized
+INFO - 2019-01-16 09:15:58 --> Security Class Initialized
+DEBUG - 2019-01-16 09:15:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-16 09:15:58 --> Input Class Initialized
+INFO - 2019-01-16 09:15:58 --> Language Class Initialized
+ERROR - 2019-01-16 09:15:58 --> 404 Page Not Found: Wp-loginphp/index
+INFO - 2019-01-16 09:16:10 --> Config Class Initialized
+INFO - 2019-01-16 09:16:10 --> Hooks Class Initialized
+DEBUG - 2019-01-16 09:16:10 --> UTF-8 Support Enabled
+INFO - 2019-01-16 09:16:10 --> Utf8 Class Initialized
+INFO - 2019-01-16 09:16:10 --> URI Class Initialized
+INFO - 2019-01-16 09:16:10 --> Router Class Initialized
+INFO - 2019-01-16 09:16:10 --> Output Class Initialized
+INFO - 2019-01-16 09:16:10 --> Security Class Initialized
+DEBUG - 2019-01-16 09:16:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-16 09:16:10 --> Input Class Initialized
+INFO - 2019-01-16 09:16:10 --> Language Class Initialized
+ERROR - 2019-01-16 09:16:10 --> 404 Page Not Found: Xmlrpcphp/index
+INFO - 2019-01-16 09:16:17 --> Config Class Initialized
+INFO - 2019-01-16 09:16:17 --> Hooks Class Initialized
+DEBUG - 2019-01-16 09:16:17 --> UTF-8 Support Enabled
+INFO - 2019-01-16 09:16:17 --> Utf8 Class Initialized
+INFO - 2019-01-16 09:16:17 --> URI Class Initialized
+INFO - 2019-01-16 09:16:17 --> Router Class Initialized
+INFO - 2019-01-16 09:16:17 --> Output Class Initialized
+INFO - 2019-01-16 09:16:17 --> Security Class Initialized
+DEBUG - 2019-01-16 09:16:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-16 09:16:17 --> Input Class Initialized
+INFO - 2019-01-16 09:16:17 --> Language Class Initialized
+ERROR - 2019-01-16 09:16:17 --> 404 Page Not Found: Wp-loginphp/index

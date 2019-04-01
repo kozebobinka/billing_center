@@ -1,0 +1,83 @@
+@font-face {
+	font-family: "ubuntu";
+	font-weight: light;
+	font-style: normal;
+	src: url("/assets/fonts/UbuntuLight/UbuntuLight.eot");
+	src: url("/assets/fonts/UbuntuLight/UbuntuLight.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/UbuntuLight/UbuntuLight.woff") format("woff"), url("/assets/fonts/UbuntuLight/UbuntuLight.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "ubuntu";
+	font-weight: normal;
+	font-style: normal;
+	src: url("/assets/fonts/UbuntuRegular/UbuntuRegular.eot");
+	src: url("/assets/fonts/UbuntuRegular/UbuntuRegular.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/UbuntuRegular/UbuntuRegular.woff") format("woff"), url("/assets/fonts/UbuntuRegular/UbuntuRegular.ttf") format("truetype"); 
+}
+
+@font-face {
+	font-family: "ubuntu";
+	font-weight: bold;
+	font-style: normal;
+	src: url("/assets/fonts/UbuntuBold/UbuntuBold.eot");
+	src: url("/assets/fonts/UbuntuBold/UbuntuBold.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/UbuntuBold/UbuntuBold.woff") format("woff"), url("/assets/fonts/UbuntuBold/UbuntuBold.ttf") format("truetype"); 
+}
+
+.site-header {
+    background-color: #0051a3;
+    height: 120px;
+    color: white;
+}
+.site-header.table-site {
+    height: 80px;
+}
+.nav-section {
+    height: 74px;
+    background-color: #cd1000;
+}
+.btn-header {
+	border: 2px solid #ffffff!important;
+}
+.characteristics-cards {
+    background-color: #f2f2f2;
+	min-height: calc(100vh - 394px);
+}
+.characteristics-cards__number {
+    color: rgba(0, 81, 163, 0.2);
+    font-size: 72px;
+    font-weight: bold;
+    line-height: 72px;
+}
+.characteristics-cards__link--grey, .characteristics-cards__link--grey:hover {
+    color: #bababa;
+}
+.characteristics-cards__link--blue {
+    font-weight: 700;
+}
+.characteristics-cards__link--black, .characteristics-cards__link--black:hover {
+    color: black;
+	font-weight: 700;
+}
+.link-edit {
+	border-bottom: 1px solid #d6d6d6;
+	padding: 10px 0;
+}
+
+.link-edit a:before {
+	font-family: "Font Awesome 5 Free";
+	content: "\f044\00a0";
+}
+footer {
+	color: white;
+	height: 200px;
+	background: #001a35;
+}
+.footer-dark {
+	background: #000e1c;
+}
+footer a, footer a:hover {
+	color: #fff;
+}
+
+.text-bold {
+	font-weight: bold;
+}
